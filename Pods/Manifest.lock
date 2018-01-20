@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - ProgressHUD (2.51)
+  - ZHChat (0.2.8)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - ProgressHUD
+  - ZHChat
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  ProgressHUD: 54b4c2fa202bf3da7dddc1c698ae4e6376333bd9
+  ZHChat: 317fa3dc83aa48f1573b0c328232db1438c07d3d
+
+PODFILE CHECKSUM: 40c6c7c0c3fb90a45d072ef6ea10dd7912f48ac8
+
+COCOAPODS: 1.4.0
